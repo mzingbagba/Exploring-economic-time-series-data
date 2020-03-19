@@ -1,0 +1,33 @@
+Variable Definition
+BCROIL:Brent Crude Oil
+BNCG:Bank of Ghana Net Claims on Govt (GHC’m)
+CIC:Currency in Circulation (GHC’m)
+CIEANom:Composite Index of Economic Activities (nominal)
+CIEAReal:Composite Index of Economic Activities (real)
+CITOB:Cash in the Tills of the Commercial Banks (GHC’m)
+COB:Currency Outside Banks
+CocoaP:Indicative Cocoa Prices: dollars/tonne
+CPI-F:CPI-Food Index
+CPI-O:CPI-Overall Index
+CPI-NF:CPI-Non Food Index
+DD:Demand Deposit (GHC’m)
+FCD:Foreign Currency Deposit
+GIR:Gross International Reserves ($ million)
+GSE-ASI:Ghana Stock Exchange All Share Index
+IBEXRENDMUSD:Inter-Bank Exchange Rate End Month (GHC/US$)
+IBEXRMAVEUSD:Inter-Bank Exchange Rates Monthly Average GHC/US$
+IBKXRAVEEURO:Inter-Bank Exchange Rates Monthly Aerage GHC/EURO
+IBKXRENDMEURO:Inter-Bank Exchange Rates End Month GHC/EURO
+IBKXRENDMGBP:Inter-Bank Exchange Rates Monthly Average GHC/GBP
+IBKXRENDMGBP:Inter-Bank Exchange Rates End Month GHC/GBP
+INF-F:Food Inflation
+INF-NF:Non-Food Inflation
+INF-YOY:Overall Inflation
+IntBkWAve:Inter-Bank Weighted Average
+M1:Narrow Money (GHC’m)
+M2:Broad Money (M2) (GHC’m)
+M2+:Total Liquidity (M2+)(GHC’m)
+MPR:Monetary Policy Rate (%)
+RM:Reserve Money (GHC’m)
+TBR-91 day:91 Day Treasury Bill Rate (%)
+TotDep:Total Deposits
