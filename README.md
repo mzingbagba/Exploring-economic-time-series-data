@@ -1,1 +1,2 @@
 # Exploring-economic-time-series-data
+This study explores time series monetary data published by the Bank of Ghana. Overall, 32 variables are assessed. The main exploratory techniques are visualisation, summary statistics and natural-log transformation. The rationale for this analysis is to identify the behaviour of these variables. Kindly read the file variable_definition.txt for the description of these variables. 
